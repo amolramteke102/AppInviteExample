@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72737469662",
+    "project_id": "firebase-appinvitesexample"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72737469662:android:1edaeab128fd808e",
+        "android_client_info": {
+          "package_name": "com.encureit.appinviteexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72737469662-sp0ftrhrhflndvc97c3ecvnb1e0a3sks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encureit.appinviteexample",
+            "certificate_hash": "70a91c6742988424951b6d38a3aee0993b6d6884"
+          }
+        },
+        {
+          "client_id": "72737469662-nha7s8o7dn7fugrhm86og35gakjpoqu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSBw_EGVTtO37jZGskYCL3pN5MQElZ1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
